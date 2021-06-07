@@ -62,15 +62,18 @@
   </ol>
 </details>
 
+<br>
+
 ## Sobre a aplicação
 
+<br>
 <!--
 - Objetivo [ testar, fazer exemplos, progamar junto, ter um ambiente para fazer demonstração]
  -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/example.gif" alt="app-demo" width="auto" height="300">
-</p>
+</p> -->
 
 ### Principais Tecnologias
 
@@ -174,7 +177,7 @@ Informações mais detalhadas sobre como e quando utilizar as funcionalidades da
 
 # Projetos
 
-### 1. <b>next-auth-jwt-with-back-end</b> | NextJS - Autenticação utilizando JWT com Back-End próprio.
+### 1. [next-auth-jwt-with-back-end](https://github.com/edsoncarlosdvp/playing-with-nextjs/tree/main/next-auth-jwt-with-back-end) | <b>NextJS - Autenticação utilizando JWT com Back-End próprio.</b>
 
 <br>
 
