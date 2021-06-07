@@ -174,7 +174,7 @@ Informações mais detalhadas sobre como e quando utilizar as funcionalidades da
 
 # Projetos
 
-### 1. <b>next-auth-jwt-with-back-end</b> | NextJS - Autenticação utilizando JWT com Back-End próprio
+### 1. <b>next-auth-jwt-with-back-end</b> | NextJS - Autenticação utilizando JWT com Back-End próprio.
 
 <br>
 
